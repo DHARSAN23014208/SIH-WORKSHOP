@@ -2,9 +2,7 @@
 Team Name- Unibots
 <br> Problem Statement: Intelligent Enterprise Assistant: Enhancing Organizational Efficiency through AI-driven Chatbot Integration
 <br>Problem ID- 1706
-<br>Team Members- Aadya Kumar (00201012022), Anavi Srivastava (02801012022), Ipshita Tandon (07001012022), Nandini R. Maharana (08401172022), Samraddhi Gupta (05701042022) and Tanvi Bisht (14501172022)
-
- 
+<br>DHARSA KUMAR R
 
 ## Overview
 This chatbot is designed to deliver domain-specific knowledge, providing accurate responses to queries related to HR policies, IT support, and company events. The chatbot also features **advanced document processing** capabilities, enabling quick summarization and extraction of key information from uploaded documents. Built for **scalability**, the system handles multiple users simultaneously, ensuring optimized response times of **under 5 seconds**.
